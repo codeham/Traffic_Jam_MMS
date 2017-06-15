@@ -22,7 +22,7 @@ public class Main {
 //        Main client = new Main();
 //        client.introPrompt();
 //        client.exportUser();
-        String origin = "Los+Angeles,+CA";
+        String origin = "Covina,+CA";
         String destination = "Cal+Poly+Pomona";
         MapData time = new MapData(origin, destination);
         time.fetchData();
